@@ -12,10 +12,10 @@ redirect_from:
 
 Research Interest
 ======
-- Next-generation MIMO communication systems
-- Reconfigurable intelligent surface (RIS)
+- Next-generation communication systems
+- Reconfigurable intelligent surface (RIS) and Movable Antennas
 - Non-Terrestrial Networks
 - Signal Processing for Wireless Communications
-- Machine Learning and AI Empowered Wireless Communications
+- Machine Learning and AI for Wireless Communications
 
 I am seeking graduate students to join my research group. Excellent postdoctoral and PhD candidates can contact me directly with a cover letter and CV to enquire about joining my research group. Check the opportunities page for more information. The PhD application deadlines and procedure can be found at [Graduate and Postdoctoral Studies](https://www.torontomu.ca/graduate/programs/electrical-computer-engineering/).
