@@ -1,31 +1,20 @@
 ---
-
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-<h2>Published Journal Articles</h2>
+## Selected Journal Submissions
 
-<ol>
-  <li>
-    Mohammad Javad-Kalbasi, <strong>M. Saif</strong>, Vasileios G Ataloglou, Kypros M Kossifos, Marco A Antoniades, George V Eleftheriades, and Shahrokh Valaee,
-    "Broad and Spectral-Efficient Beamforming for Uni-Polarized Reconfigurable Intelligent Surfaces,"
-    <em>IEEE Transactions on Antennas and Propagation</em>, accepted for publication, 2026.
-  </li>
-</ol>
-   
-<h2>Conference Papers</h2>
+1. **M. Saif**, "Movable Antenna and Reconfigurable Intelligent Surface Partitioning for Downlink Networks," to be submitted to the *2026 IEEE GLOBECOM Workshop*, 2026.
 
-<ol>
-  <li>
-    <strong>M. Saif</strong>,
-  "Movable Antenna and Reconfigurable Intelligent Surface Partitioning for Downlink Networks,"
-  submitted to the <em>2026 IEEE GLOBECOM Workshop</em>, 2026.
-  </li>
+## Selected Journal Publications
 
-   
-</ol>
+1. Mohammad Javad-Kalbasi, **M. Saif**, and Shahrokh Valaee, "Broad and Spectral-Efficient Beamforming for Uni-Polarized Reconfigurable Intelligent Surfaces," *IEEE Transactions on Antennas and Propagation*, accepted for publication, 2026.
 
+2. **M. Saif**, ..., "Title," *IEEE Transactions on Wireless Communications*, vol. XX, no. X, pp. XX–XX, 2025.
 
+## Selected Conference Publications
+
+1. **M. Saif**, "Movable Antenna and Reconfigurable Intelligent Surface Partitioning for Downlink Networks," to be submitted to the *2026 IEEE GLOBECOM Workshop*, 2026.
