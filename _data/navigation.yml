@@ -9,25 +9,25 @@
 
 main:
   - title: "Home"
-    url: /Home/
+    url: /
     
   - title: "Research"
-    url: /Research/
+    url: /research/
 
   - title: "Research Team"
-    url: /Research Team/   
+    url: /research-Team/   
     
   - title: "Publications"
-    url: /Publications/ 
+    url: /publications/ 
     
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Service"
-    url: /Service/
+    url: /service/
         
-  - title: "Newes and Media"
-    url: /Newes and Media/
+  - title: "News and Media"
+    url: /news-and-media/
     
   #- title: "CV"
   #  url: /cv/
