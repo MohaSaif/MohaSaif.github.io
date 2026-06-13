@@ -4,7 +4,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
---------------------
+---
 
 ## Toronto Metropolitan University (TMU)
 
@@ -20,4 +20,3 @@ author_profile: true
 ## University of British Columbia (UBC)
 
 * **ENG 461:** Digital Communications
-
