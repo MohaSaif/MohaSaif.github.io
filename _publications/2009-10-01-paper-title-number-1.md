@@ -1,14 +1,20 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+## Selected Journal Submission
+
+
+## Selected Journal Publications
+
+1. Mohammad Javad-Kalbasi, **M. Saif**, and Shahrokh Valaee, "Broad and Spectral-Efficient Beamforming for Uni-Polarized Reconfigurable Intelligent Surfaces," *IEEE Transactions on Antennas and Propagation*, accepted for publication, 2026.
+
+2. **M. Saif**, ..., "Title," *IEEE Transactions on Wireless Communications*, vol. XX, no. X, pp. XX–XX, 2025.
+
+## Selected Conference Publications
+
+1. **M. Saif**, "Movable Antenna and Reconfigurable Intelligent Surface Partitioning for Downlink Networks," to be submitted to the *2026 IEEE GLOBECOM Workshop*, 2026.
