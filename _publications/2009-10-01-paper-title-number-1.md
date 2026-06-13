@@ -6,11 +6,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Selected Journal Submission
+## Selected Journal Submissions
 
-1. **M. Saif** and Shahrokh Valaee,  "RIS partitioning and user clustering for resilient non-orthogonal multiple access UAV networks,"   *IEEE Trans. on Wireless Communications*, Major revision, 2025.	
+1. **M. Saif** and Shahrokh Valaee,  "RIS partitioning and user clustering for resilient non-orthogonal multiple access UAV networks,"   *IEEE Transactions on Wireless Communications*, Major revision, 2025.	
  
-2. Mustafa Ammous, **M. Saif**, and Shahrokh Valaee, "RIS-aided cooperative positioning using device-to-device communications",   *IEEE Trans. on Communications*, 2024, Second round.	
+2. Mustafa Ammous, **M. Saif**, and Shahrokh Valaee, "RIS-aided cooperative positioning using device-to-device communications",   *IEEE Transactions on Communications*, Second round, 2024.	
 
 ## Selected Journal Publications
 
