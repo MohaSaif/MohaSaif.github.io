@@ -1,25 +1,23 @@
 ---
+
+layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
----
+--------------------
 
-At TMU:
-=======
+## Toronto Metropolitan University (TMU)
 
-- MTE501: Signals and Systems
-- ELE888/EE8209: Intelligent Systems
+* **MTE501:** Signals and Systems
+* **ELE888/EE8209:** Intelligent Systems
 
- 
-At U of T:
-=======
+## University of Toronto (U of T)
 
-- ECE311: Introduction to Control Systemns
-- ECE316: Communication Systems
-- ECE363: Communication Systems
+* **ECE311:** Introduction to Control Systems
+* **ECE316:** Communication Systems
+* **ECE363:** Communication Systems
 
-  
-At UBC:
-=======
+## University of British Columbia (UBC)
 
-- ENG 461: Digital Communications
+* **ENG 461:** Digital Communications
+
