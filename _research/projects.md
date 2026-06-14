@@ -1,7 +1,7 @@
 ---
 title: "Research"
 collection: research
-permalink: /research/projects/
+#permalink: /research/projects/
 ---
 
 ### <span style="color: blue;">Movable Antennas and Reconfigurable Intelligent Surfaces</span>
