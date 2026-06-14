@@ -1,7 +1,7 @@
 ---
-title: "RIS-Assisted UAV Communications"
-excerpt: "Research on improving connectivity using reconfigurable intelligent surfaces."
+title: "Research"
 collection: research
+permalink: /research/projects/
 ---
 
-Detailed description of the project goes here.
+Content describing your research projects.
