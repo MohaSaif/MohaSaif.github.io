@@ -40,16 +40,14 @@ author_profile: true
 
 
 ## Selected Conference Publications
-**[C9]** **M. Saif**, Adnan Hamida, and Shahrokh Valaee, "Reconfigurable Intelligent Surface Sub-Array Design for D2D Interference Channels," *IEEE International Conference on Communications (ICC)*, accepted for publication, 2026.
+**[C8]** **M. Saif**, Adnan Hamida, and Shahrokh Valaee, "Reconfigurable Intelligent Surface Sub-Array Design for D2D Interference Channels," *IEEE International Conference on Communications (ICC)*, accepted for publication, 2026.
   
-**[C8]** **M. Saif** and Shahrokh Valaee, "RIS Partitioning and Link Selection for Maximizing Connectivity of NOMA UAV Networks," *2025 IEEE Middle East Conference on Communications and Networking (MECOM)*, accepted for publication, 2025.
+**[C7]** **M. Saif** and Shahrokh Valaee, "RIS Partitioning and Link Selection for Maximizing Connectivity of NOMA UAV Networks," *2025 IEEE Middle East Conference on Communications and Networking (MECOM)*, accepted for publication, 2025.
   
-**[C7]** Adnan Hamida, **M. Saif**, Jun Li, and Shahrokh Valaee, "Convolved Thinned Antenna Arrays for Close Target Separation," *2025 IEEE 26th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Surrey, United Kingdom, pp. 1–5, 2025.
+**[C6]** Adnan Hamida, **M. Saif**, Jun Li, and Shahrokh Valaee, "Convolved Thinned Antenna Arrays for Close Target Separation," *2025 IEEE 26th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Surrey, United Kingdom, pp. 1–5, 2025.
   
-**[C6]** Mustafa Ammous, Kyle Sabado, **M. Saif**, and Shahrokh Valaee, "Cooperative Localization and Tracking Using RISs and Sidelink Communications," *2025 IEEE Wireless Communications and Networking Conference (WCNC)*, Milan, Italy, pp. 1–6, 2025.
- 
-**[C5]** **M. Saif** and Shahrokh Valaee, "UAV Positioning and RIS Partitioning for Connectivity of Uplink RIS-Assisted UAV Networks," *IEEE Global Communications Conference (GLOBECOM)*, submitted, Paper ID: 1571137277, 2025.
-  
+**[C5]** Mustafa Ammous, Kyle Sabado, **M. Saif**, and Shahrokh Valaee, "Cooperative Localization and Tracking Using RISs and Sidelink Communications," *2025 IEEE Wireless Communications and Networking Conference (WCNC)*, Milan, Italy, pp. 1–6, 2025.
+
 **[C4]** Hesameddin Mokhtarzadeh, **M. Saif**, M. J. Hossain, and Julian Cheng, "Enhanced F-RANs by Utilizing Reconfigurable Intelligent Surfaces and UAV Smart Helpers," *IEEE International Conference on Communications (ICC)*, accepted for publication, 2025.
   
 **[C3]** Farhan Bishe, **M. Saif**, Jun Li, and Shahrokh Valaee, "Dynamic Dictionary Design for Localization in Automotive Radar Systems," *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Hyderabad, India, pp. 1–5, 2025.
