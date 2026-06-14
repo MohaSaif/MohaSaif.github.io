@@ -4,11 +4,6 @@ collection: research
 permalink: /research/projects/
 ---
 
-- **RIS-Assisted UAV Communications for Network Connectivity**
-- **Movable Antennas**
-- **Radar Signal Processing**
-- **Integrated Sensing and Communications**
-
 ### <span style="color: blue;">RIS-Assisted UAV Communications for Network Connectivity</span>
 
 ### <span style="color: blue;">Movable Antennas</span>
