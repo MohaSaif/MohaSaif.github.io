@@ -15,6 +15,7 @@ author_profile: true
 * IEEE Journal on Selected Areas in Communications
 * IEEE Transactions on Communications
 * IEEE Transactions on Wireless Communications
+* IEEE Transactions on Mobile Computing
 * IEEE Transactions on Vehicular Technology
 * IEEE Internet of Things Journal
 * IEEE Communications Letters
