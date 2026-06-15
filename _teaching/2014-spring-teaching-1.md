@@ -6,7 +6,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-##Toronto Metropolitan University (TMU)
+### Toronto Metropolitan University (TMU)
 
 * MTE501 (Fall 2025):** Signals and Systems
 * ELE888 (Winter 2026):** Intelligent Systems
