@@ -56,7 +56,7 @@ author_profile: true
   
 **[C1]** Adnan Hamida, **M. Saif**, Jun Li, and Shahrokh Valaee, "Antenna Placement in Compressive Sensing Radar Using Binary Optimization," *IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM)*, Corvallis, OR, USA, pp. 1–5, 2024.
 
-Complete lists of publications can be found on :contentReference[oaicite:0]{index=0}.
+Complete lists of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=XHsSmGoAAAAJ&hl=en).
  
 
 
