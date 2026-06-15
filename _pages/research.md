@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-<h3><strong style="color: blue;">Reconfigurable Intelligent Surfaces Assisted Wireless Communications</strong></h3>
+<!-- Sky Blue -->
+<h3><strong style="color: #87CEEB;">Reconfigurable Intelligent Surfaces Assisted Wireless Communications</strong></h3>
+
 
 <p align="center">
   <img src="/images/RIS_image.png" alt="RIS-assisted UAV communications" style="width:80%;">
