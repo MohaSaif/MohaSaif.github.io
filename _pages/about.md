@@ -7,19 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Saif is an Assistant Professor of Electrical Engineering at [Toronto Metropolitan University](https://www.torontomu.ca). From 2020 to 2023, he worked as a Postdoctoral Research Fellow in the School of Engineering at the [University of British Columbia (UBC)](https://www.ubc.ca), Canada. From 2023 to 2025, he worked as NSERC Postdoctoral Research Fellow in the  Edward S. Rogers Sr. Department of Electrical & Computer Engineering at the [University of Toronto (U of T)](https://www.utoronto.ca), Canada. 
+Saif is an Assistant Professor of Electrical Engineering at [Toronto Metropolitan University (TMU)](https://www.torontomu.ca). From 2020 to 2023, he worked as a Postdoctoral Research Fellow in the School of Engineering at the [University of British Columbia (UBC)](https://www.ubc.ca), Canada. From 2023 to 2025, he worked as NSERC Postdoctoral Research Fellow in the  Edward S. Rogers Sr. Department of Electrical & Computer Engineering at the [University of Toronto (U of T)](https://www.utoronto.ca), Canada. 
 
-He received the M.S. and Ph.D. degrees in electrical engineering from [KFUPM](https://www.kfupm.edu.sa) and [UBC](https://www.ubc.ca), in 2016 and 2020 respectively. He received the [Canada Postdoctoral Research Award](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program) in 2023, with his application ranked fourth in EE group across Canada.  His research interests lie in the areas of networking, communication theory, signal processing, and machine learning. 
+He received the M.S. and Ph.D. degrees in electrical engineering from [KFUPM](https://www.kfupm.edu.sa) and [UBC](https://www.ubc.ca), in 2016 and 2020, respectively. He received the [Canada Postdoctoral Research Award](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program) in 2023, with his application ranked fourth in EE group across Canada.  His research interests lie in the areas of networking, communication theory, signal processing, and machine learning. 
    
 
 Research Topics:
 ======
 The TMU Wireless Networks & Intelligence Lab (WirNet Lab) focuses on the following research directions:
-- Next-generation communication systems
 - Intelligent surface (RIS, SIM) and Movable Antennas
+- Next-generation communication systems
 - Non-Terrestrial Networks
-- Signal Processing for Wireless Communications
-- Machine Learning and AI for Wireless Communications
+- Machine Learning for Wireless Communications
 - Radar Signal Processing
   
 Prospective Students:
