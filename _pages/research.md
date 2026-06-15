@@ -15,7 +15,7 @@ In the pursuit of green, connected, and sustainable beyond-5G wireless networks,
 <h3><strong style="color: blue;">Movable Antennas and Reconfigurable Intelligent Surfaces</strong></h3>
 
 <p align="center">
-  <img src="/images/MA1_image.png" alt="MA and RIS" style="width:80%;">
+  <img src="/images/MA1_RIS_image.PNG" alt="MA and RIS" style="width:80%;">
 </p>
 
 This research investigates the integration of movable antennas (MAs) and RISs to enable adaptive spatial control in future 6G wireless networks. By jointly exploiting the six-dimensional positioning and orientation flexibility of MAs together with RIS-assisted propagation control and element selection, we aim to develop novel MA-RIS frameworks that introduce additional design degrees of freedom to enhance desired signal transmission, mitigate inter-user interference, improve network coverage, and maximize spectral efficiency and system sum-rate performance.
