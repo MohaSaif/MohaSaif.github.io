@@ -8,8 +8,8 @@ author_profile: true
 ### Professional Memberships
 * IEEE Member
 * IEEE ComSoc Member
-* NSERC CPRA
-* NSERC CGRS D
+* NSERC CPRA (Committee Member, 2023-present)
+* NSERC CGRS D (Committee Member, 2023-present)
 
 ### Reviewer for Journals
 * IEEE Journal on Selected Areas in Communications
