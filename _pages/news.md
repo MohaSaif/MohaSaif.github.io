@@ -6,7 +6,7 @@ author_profile: true
 ---
  
 ## Nwes (2025 onwards)
-* <span style="color: red;">Apr. 2026:</span> Paper ["Broad and Spectrally-Efficient Beamforming for Uni-polarized Reconfigurable Intelligent Surfaces"](https://ieeexplore.ieee.org/abstract/document/11533648) is accepted for publication in IEEE Transactions on Antennas and Propagation. Congratulations Mohammad Javad!
+* <span style="color: red;">Apr. 2026:</span> Paper [“Broad and Spectrally-Efficient Beamforming for Uni-polarized Reconfigurable Intelligent Surfaces,”](https://ieeexplore.ieee.org/abstract/document/11533648) is accepted for publication in IEEE Transactions on Antennas and Propagation. Congratulations Mohammad Javad!
 * <span style="color: red;">Feb. 2026:</span> Paper "Reconfigurable Intelligent Surface Sub-Array Design for  D2D Interference Channel" is accepted in ICC2026.  
 * <span style="color: red;">Oct. 2025:</span> Paper ["RIS Narrow Beamwidth and Link Selection for Improving Connectivity of Multi-RIS-Assisted D2D Networks"](https://ieeexplore.ieee.org/abstract/document/11208567) is accepted for publication in IEEE Internet of Things Journal.
 * <span style="color: red;">Sep. 2025:</span> Paper ["Target Localization Performance of Binary Optimized Antenna Placement Using Mutual Coherence Minimization"](https://ieeexplore.ieee.org/abstract/document/11202378) is accepted for publication in IEEE Transactions on Antennas and Propagation. Congratulations Adnan Hamida!
