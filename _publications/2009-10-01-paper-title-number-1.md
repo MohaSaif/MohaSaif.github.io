@@ -7,6 +7,13 @@ author_profile: true
 ---
 
 ## Journal Submissions
+
+<ol reversed>
+  <li>M. Saif, "Paper Title 3," <em>IEEE Transactions on Wireless Communications</em>, 2026.</li>
+  <li>M. Saif, "Paper Title 2," <em>IEEE Transactions on Communications</em>, 2025.</li>
+  <li>M. Saif, "Paper Title 1," <em>IEEE ICC</em>, 2024.</li>
+</ol>
+
 **[J3]**   Hesameddin Mokhtarzadeh, **M. Saif**, M. J. Hossain, and Julian Cheng, "Adaptive Smart Helper Placement in F-RANs Using Spatio-Temporal User Density Prediction," *IEEE Transactions on Vehicular Technology*, second round, 20265.	
 
 **[J2]**   **M. Saif** and Shahrokh Valaee,  "RIS partitioning and user clustering for resilient non-orthogonal multiple access UAV networks,"   *IEEE Transactions on Wireless Communications*, Major revision, 2025.	
