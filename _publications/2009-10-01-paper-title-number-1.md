@@ -6,19 +6,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Submissions
+## Submissions
 
 <ol reversed start="3">
-  <li>M. Saif, "Paper Title 3," <em>IEEE Transactions on Wireless Communications</em>, 2026.</li>
-  <li>M. Saif, "Paper Title 2," <em>IEEE Transactions on Communications</em>, 2025.</li>
-  <li>M. Saif, "Paper Title 1," <em>IEEE ICC</em>, 2024.</li>
+  <li>Hesameddin Mokhtarzadeh, **M. Saif**, M. J. Hossain, and Julian Cheng, "Adaptive Smart Helper Placement in F-RANs Using Spatio-Temporal User Density Prediction," *IEEE Transactions on Vehicular Technology*, second round, 20265.
+  <li>**M. Saif** and Shahrokh Valaee,  "RIS partitioning and user clustering for resilient non-orthogonal multiple access UAV networks,"   *IEEE Transactions on Wireless Communications*, Major revision, 2025.
+  <li>Mustafa Ammous, **M. Saif**, and Shahrokh Valaee, "RIS-aided cooperative positioning using device-to-device communications",   *IEEE Transactions on Communications*, Second round, 2024.
 </ol>
 
-**[J3]**   Hesameddin Mokhtarzadeh, **M. Saif**, M. J. Hossain, and Julian Cheng, "Adaptive Smart Helper Placement in F-RANs Using Spatio-Temporal User Density Prediction," *IEEE Transactions on Vehicular Technology*, second round, 20265.	
+**[J3]**   	
 
-**[J2]**   **M. Saif** and Shahrokh Valaee,  "RIS partitioning and user clustering for resilient non-orthogonal multiple access UAV networks,"   *IEEE Transactions on Wireless Communications*, Major revision, 2025.	
+**[J2]**   	
 
-**[J1]**   Mustafa Ammous, **M. Saif**, and Shahrokh Valaee, "RIS-aided cooperative positioning using device-to-device communications",   *IEEE Transactions on Communications*, Second round, 2024.	
+**[J1]**   	
 
 ## Selected Journal Publications
 **[J13]** Mohammad Javad-Kalbasi, **M. Saif**, Vasileios G. Ataloglou, Kypros M. Kossifos, Marco A. Antoniades, George V. Eleftheriades, and Shahrokh Valaee, "Broad and Spectral-Efficient Beamforming for Uni-Polarized Reconfigurable Intelligent Surfaces," *IEEE Transactions on Antennas and Propagation*, early access, 2026.
