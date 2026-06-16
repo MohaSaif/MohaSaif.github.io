@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Submitted:
+### Submitted:
 <ol>
   <li value="7">M. Saif,  "Movable antenna  and reconfigurable intelligent surface Partitioning for  downlink networks," 2027 IEEE GLOBECOM Workshop,  2026. <a href="https://arxiv.org/pdf/2606.11519" target="_blank">[arXiv]</a></li>
   <li value="6">Z. Shahhaidari, M. Javad-Kalbasi, M. Saif, and  S. Valaee,  "Q-Learning Based Broad Beamforming for Unipolarized RIS with Planar Arrays," ICASSP 2026.</li>
@@ -17,7 +17,7 @@ author_profile: true
   <li value="1">M. Ammous, M. Saif, and S. Valaee, "RIS-aided cooperative positioning using device-to-device communications",   IEEE Trans. on Commun., Second round, 2024.</li>
 </ol>
 
-## Journals:
+### Journals:
 <ol>
 <li value="24">M. Javad-Kalbasi, M. Saif, Vasileios G. Ataloglou, Kypros M. Kossifos, Marco A. Antoniades, George V. Eleftheriades, and S. Valaee, "Broad and Spectral-Efficient Beamforming for Uni-Polarized Reconfigurable Intelligent Surfaces," IEEE Trans. on Antennas and Propagation, 2026.</li>  
  <li value="23">M. Saif, M. Javad-Kalbasi, and S. Valaee, "RIS Narrow Beamwidth and Link Selection for Improving Connectivity of Multi-RIS-Assisted D2D Networks," IEEE Internet of Things Journal, vol. 13, no. 2, pp. 1798-1815, 15 Jan.15, 2026.</li>
@@ -47,7 +47,7 @@ author_profile: true
 </ol>
 
 	 
-## Conferences: 
+### Conferences: 
 <ol>
 <li value="19">M. Saif, A. Hamida, and  S. Valaee,  "Reconfigurable intelligent surface sub-array design for D2D interference channel," ICC 2026 - IEEE International Conference on Communications, accepted, 2026.</li>
 <li value="18">M. Saif and  S. Valaee,  "RIS Partitioning and Link Selection for Maximizing Connectivity of NOMA UAV Networks," 2025 IEEE Middle East Conference on Communications and Networking (MECOM)*, Cairo, Egypt, 2025, pp. 1-6. </li> 
