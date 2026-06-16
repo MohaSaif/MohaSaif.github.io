@@ -20,6 +20,7 @@ The TMU Wireless Networks & Intelligence Lab (WirNet Lab) focuses on the followi
 - Non-Terrestrial Networks
 - Machine Learning for Wireless Communications
 - Radar Signal Processing
+- Integrated Sensing and Communications
   
 Prospective Students:
 ======
