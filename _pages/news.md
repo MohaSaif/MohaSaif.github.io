@@ -5,7 +5,7 @@ permalink: /news-and-media/
 author_profile: true
 ---
  
-## News (2025 onwards)
+## News
 * <span style="color: red;">Apr. 2026:</span> Paper [“Broad and Spectrally-Efficient Beamforming for Uni-polarized Reconfigurable Intelligent Surfaces”](https://ieeexplore.ieee.org/abstract/document/11533648), accepted for publication in the IEEE Trans. on Antennas and Propagation. This work was in collaboration with M. Javad-Kalbasi, Dr. Vasileios G. Ataloglou; Dr. K. M. Kossifos; Prof. Marco A. Antoniades; Prof. G. V. Eleftheriades, and Prof. S. Valaee. Congratulations all!
 * <span style="color: red;">Feb. 2026:</span> Paper "Reconfigurable Intelligent Surface Sub-Array Design for  D2D Interference Channel," accepted in ICC2026. This work is in collaboration with A. Hamida and Prof. S. Valaee. Congratulations all! 
 * <span style="color: red;">Oct. 2025:</span> Paper ["RIS Narrow Beamwidth and Link Selection for Improving Connectivity of Multi-RIS-Assisted D2D Networks"](https://ieeexplore.ieee.org/abstract/document/11208567), accepted for publication in the IEEE Internet of Things Journal. This work is in collaboration with M. Javad and Prof. S. Valaee. Congratulations all!
