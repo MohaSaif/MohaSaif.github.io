@@ -9,9 +9,10 @@ author_profile: true
 ## Submissions
 
 <ol reversed start="3">
-  <li>Hesameddin Mokhtarzadeh, M. Saif, M. J. Hossain, and Julian Cheng, "Adaptive Smart Helper Placement in F-RANs Using Spatio-Temporal User Density Prediction," *IEEE Transactions on Vehicular Technology*, second round, 20265.
-  <li>M. Saif and Shahrokh Valaee,  "RIS partitioning and user clustering for resilient non-orthogonal multiple access UAV networks,"   *IEEE Transactions on Wireless Communications*, Major revision, 2025.
-  <li>Mustafa Ammous, M. Saif, and Shahrokh Valaee, "RIS-aided cooperative positioning using device-to-device communications",   *IEEE Transactions on Communications*, Second round, 2024.
+  <li>Hesameddin Mokhtarzadeh, M. Saif, M. J. Hossain, and Julian Cheng, "Adaptive Smart Helper Placement in F-RANs Using Spatio-Temporal User Density Prediction," IEEE Transactions on Vehicular Technology, second round, 2026.
+  <li>Hasabelnaby, M. Obeed, M. Saif, A. Chaaban, J. Hossain, “From Centralized RAN to Open RAN: A Survey on the Evolution of Distributed Antenna Systems,” IEEE Open J. Commun. Soc., 2026.
+  <li>M. Saif and Shahrokh Valaee,  "RIS partitioning and user clustering for resilient non-orthogonal multiple access UAV networks,"   IEEE Transactions on Wireless Communications, Major revision, 2025.
+  <li>Mustafa Ammous, M. Saif, and Shahrokh Valaee, "RIS-aided cooperative positioning using device-to-device communications",   IEEE Transactions on Communications, Second round, 2024.
 </ol>
 
 ## Selected Journal Publications
