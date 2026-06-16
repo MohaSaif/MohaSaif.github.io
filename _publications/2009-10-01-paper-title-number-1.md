@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Submissions
+## Submitted
 <ol>
   <li value="4">Hesameddin Mokhtarzadeh, M. Saif, M. J. Hossain, and Julian Cheng, "Adaptive Smart Helper Placement in F-RANs Using Spatio-Temporal User Density Prediction," IEEE Transactions on Vehicular Technology, second round, 2026.</li>
   <li value="3">asabelnaby, M. Obeed, M. Saif, A. Chaaban, J. Hossain, “From Centralized RAN to Open RAN: A Survey on the Evolution of Distributed Antenna Systems,” IEEE Open J. Commun. Soc., 2026.</li>
