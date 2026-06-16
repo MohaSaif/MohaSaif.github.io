@@ -222,6 +222,12 @@ collections:
     service:
     output: true
     permalink: /:collection/:path/
+  research-team:
+    output: true
+    permalink: /:collection/:path/
+    service:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -272,6 +278,15 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research-team
+  - scope:
+      path: ""
+      type: research-team
     values:
       layout: single
       author_profile: true
