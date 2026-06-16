@@ -6,15 +6,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Submitted
+## Submitted:
 <ol>
-  <li value="4">Hesameddin Mokhtarzadeh, M. Saif, M. J. Hossain, and Julian Cheng, "Adaptive Smart Helper Placement in F-RANs Using Spatio-Temporal User Density Prediction," IEEE Transactions on Vehicular Technology, second round, 2026.</li>
+  <li value="7">M. Saif,  "Movable antenna  and reconfigurable intelligent surface Partitioning for  downlink networks," 2027 IEEE GLOBECOM Workshop,  2026. [arXiv](https://arxiv.org/pdf/2606.11519)
+  <li value="6">Zahra Shahhaidari, Mohammad Javad-Kalbasi, M. Saif, and  Shahrokh Valaee,  "Q-Learning Based Broad Beamforming for Unipolarized RIS with Planar Arrays," ICASSP 2026.
+  <li value="5">M. Saif and  Shahrokh Valaee,  "Maximizing Connectivity of Uplink RIS-Assisted UAV Networks," 2027 IEEE Globecom, [arXiv](https://arxiv.org/pdf/2606.11523) 
+  <li value="4">Hesameddin Mokhtarzadeh, M. Saif, M. J. Hossain, and Julian Cheng, "Adaptive Smart Helper Placement in F-RANs Using Spatio-Temporal User Density Prediction," IEEE Trans. on Vehicular Technology, second round, 2026.</li>
   <li value="3">asabelnaby, M. Obeed, M. Saif, A. Chaaban, J. Hossain, “From Centralized RAN to Open RAN: A Survey on the Evolution of Distributed Antenna Systems,” IEEE Open J. Commun. Soc., 2026.</li>
-  <li value="2">M. Saif and Shahrokh Valaee,  "RIS partitioning and user clustering for resilient non-orthogonal multiple access UAV networks,"   IEEE Transactions on Wireless Communications, Major revision, 2025.</li>
-  <li value="1">Mustafa Ammous, M. Saif, and Shahrokh Valaee, "RIS-aided cooperative positioning using device-to-device communications",   IEEE Transactions on Communications, Second round, 2024..</li>
+  <li value="2">M. Saif and Shahrokh Valaee,  "RIS partitioning and user clustering for resilient non-orthogonal multiple access UAV networks,"   IEEE Trans. on Wireless Commun., Major revision, 2025.</li>
+  <li value="1">Mustafa Ammous, M. Saif, and Shahrokh Valaee, "RIS-aided cooperative positioning using device-to-device communications",   IEEE Trans. on Commun., Second round, 2024..</li>
 </ol>
 
-## Journals
+## Journals:
 <ol>
 <li value="24">Mohammad Javad-Kalbasi, M. Saif, Vasileios G. Ataloglou, Kypros M. Kossifos, Marco A. Antoniades, George V. Eleftheriades, and Shahrokh Valaee, "Broad and Spectral-Efficient Beamforming for Uni-Polarized Reconfigurable Intelligent Surfaces," IEEE Trans. on Antennas and Propagation, 2026.</li>  
  <li value="23">M. Saif, Mohammad Javad-Kalbasi, and Shahrokh Valaee, "RIS Narrow Beamwidth and Link Selection for Improving Connectivity of Multi-RIS-Assisted D2D Networks," IEEE Internet of Things Journal, vol. 13, no. 2, pp. 1798-1815, 15 Jan.15, 2026.</li>
@@ -44,7 +47,7 @@ author_profile: true
 </ol>
 
 	 
-## Conferences 
+## Conferences: 
 **[C8]** **M. Saif**, Adnan Hamida, and Shahrokh Valaee, "Reconfigurable Intelligent Surface Sub-Array Design for D2D Interference Channels," *IEEE International Conference on Communications (ICC)*, accepted for publication, 2026.
   
 **[C7]** **M. Saif** and Shahrokh Valaee, "RIS Partitioning and Link Selection for Maximizing Connectivity of NOMA UAV Networks," *2025 IEEE Middle East Conference on Communications and Networking (MECOM)*, Cairo, Egypt, 2025, pp. 1-6.
