@@ -14,7 +14,7 @@ author_profile: true
   <li value="4">H. Mokhtarzadeh, M. Saif, .J. Hossain, and J. Cheng, "Adaptive Smart Helper Placement in F-RANs Using Spatio-Temporal User Density Prediction," IEEE Trans. on Vehicular Technology, second round, 2026.</li>
   <li value="3">Hasabelnaby, M. Obeed, M. Saif, A. Chaaban, J. Hossain, “From Centralized RAN to Open RAN: A Survey on the Evolution of Distributed Antenna Systems,” IEEE Open J. Commun. Soc., 2026.</li>
   <li value="2">M. Saif and S. Valaee,  "RIS partitioning and user clustering for resilient non-orthogonal multiple access UAV networks,"   IEEE Trans. on Wireless Commun., Major revision, 2025. <a href="https://arxiv.org/pdf/2505.00658" target="_blank">[arXiv]</a> </li>
-  <li value="1">M. Ammous, M. Saif, and S. Valaee, "RIS-aided cooperative positioning using device-to-device communications",   IEEE Trans. on Commun., Second round, 2024..</li>
+  <li value="1">M. Ammous, M. Saif, and S. Valaee, "RIS-aided cooperative positioning using device-to-device communications",   IEEE Trans. on Commun., Second round, 2024.</li>
 </ol>
 
 ## Journals:
