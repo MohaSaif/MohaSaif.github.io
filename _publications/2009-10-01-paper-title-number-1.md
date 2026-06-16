@@ -8,7 +8,7 @@ author_profile: true
 
 ## Submitted:
 <ol>
-  <li value="7">M. Saif,  "Movable antenna  and reconfigurable intelligent surface Partitioning for  downlink networks," 2027 IEEE GLOBECOM Workshop,  2026. [arXiv](https://arxiv.org/pdf/2606.11519)</li>
+  <li value="7">M. Saif,  "Movable antenna  and reconfigurable intelligent surface Partitioning for  downlink networks," 2027 IEEE GLOBECOM Workshop,  2026. [a<a href="https://arxiv.org/pdf/2606.11519" target="_blank">[arXiv]</a></li>
   <li value="6">Z. Shahhaidari, M. Javad-Kalbasi, M. Saif, and  S. Valaee,  "Q-Learning Based Broad Beamforming for Unipolarized RIS with Planar Arrays," ICASSP 2026.</li>
   <li value="5">M. Saif and  S. Valaee,  "Maximizing Connectivity of Uplink RIS-Assisted UAV Networks," 2027 IEEE Globecom, [arXiv](https://arxiv.org/pdf/2606.11523) </li>
   <li value="4">H.n Mokhtarzadeh, M. Saif, .J. Hossain, and J. Cheng, "Adaptive Smart Helper Placement in F-RANs Using Spatio-Temporal User Density Prediction," IEEE Trans. on Vehicular Technology, second round, 2026.</li>
