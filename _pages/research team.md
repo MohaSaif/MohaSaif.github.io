@@ -5,11 +5,11 @@ permalink: /research-team/
 author_profile: true
 ---
 
-## Team Lead
+### Team Lead
 * Mohammed Saif
 
-## Graduate Students
+### Graduate Students
 
 
-## Undergraduate Students
+### Undergraduate Students
  
