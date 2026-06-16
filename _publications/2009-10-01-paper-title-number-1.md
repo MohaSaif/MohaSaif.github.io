@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journal Submissions
 
-<ol reversed>
+<ol reversed start="3">
   <li>M. Saif, "Paper Title 3," <em>IEEE Transactions on Wireless Communications</em>, 2026.</li>
   <li>M. Saif, "Paper Title 2," <em>IEEE Transactions on Communications</em>, 2025.</li>
   <li>M. Saif, "Paper Title 1," <em>IEEE ICC</em>, 2024.</li>
