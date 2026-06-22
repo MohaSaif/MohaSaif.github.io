@@ -19,4 +19,4 @@ author_profile: true
 
 ### University of British Columbia (UBC)
 
-* ENG 461: Digital Communications
+* ENG461: Digital Communications
