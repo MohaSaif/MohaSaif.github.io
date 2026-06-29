@@ -16,7 +16,7 @@ Research Topics:
 ======
 The TMU Wireless Networks & Intelligence Lab (WirNet Lab) focuses on the following research directions:
 - Intelligent surface (RIS, SIM) and Movable Antennas
-- Next-generation communication systems
+- Next-Generation Communication Systems
 - Non-Terrestrial Networks
 - Machine Learning for Wireless Communications
 - Radar Signal Processing
